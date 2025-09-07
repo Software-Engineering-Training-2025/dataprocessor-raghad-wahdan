@@ -13,9 +13,6 @@ import java.util.List;
 
 public class DataProcessorService {
 
-    /**
-     * Order: Clean -> Analyze -> Output -> Return result
-     */
     public double process(
             CleaningType cleaningType,
             AnalysisType analysisType,

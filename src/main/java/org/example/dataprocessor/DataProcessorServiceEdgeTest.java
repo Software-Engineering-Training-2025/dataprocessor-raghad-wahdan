@@ -71,4 +71,3 @@ class DataProcessorServiceEdgeTest {
         assertEquals(6.0, r, 1e-9);
     }
 }
-
